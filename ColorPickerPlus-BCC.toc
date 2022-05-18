@@ -4,6 +4,6 @@
 ## Author: jaslm
 ## DefaultState: Enabled
 ## SavedVariables: ColorPickerPlusDB
-
+## X-Wago-ID: RqGYplKg
 
 ColorPickerPlus.lua
